@@ -24,5 +24,8 @@ Training script using the custom activation
 ## HOW TO SET UP AND RUN 
 
 pip install torch numpy
+
+
 python easy_swish.py
+
 
