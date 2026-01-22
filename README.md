@@ -1,4 +1,4 @@
-# Custom-Swish-Activation-Implementation
+# Custom Swish Activation Implementation
 
 This project implements a custom Swish activation function using PyTorch’s autograd.Function.
 The forward and backward passes were defined manually to control how gradients are calculated.
@@ -25,3 +25,4 @@ Training script using the custom activation
 
 pip install torch numpy
 python easy_swish.py
+
